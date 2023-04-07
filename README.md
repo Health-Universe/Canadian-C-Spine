@@ -1,1 +1,3 @@
 # Canadian-C-Spine
+
+Canadian C-Spine Rule Calculator is a user-friendly medical app designed to assist healthcare professionals in making informed decisions regarding cervical spine imaging for trauma patients. By evaluating key criteria such as patient age, mechanism of injury, and presence of paresthesias, the app applies the Canadian C-Spine Rule to determine whether C-Spine imaging is warranted. With its intuitive interface and evidence-based approach, this app helps streamline the assessment process, minimizing unnecessary imaging and enhancing patient care. Note: This app is intended for educational purposes and should not replace clinical judgment or consultation with medical professionals.
